@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "serialport": "^10.4.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^9.1.0",
+    "prebuildify": "^5.0.0",
+    "prebuildify-cross": "^5.0.0"
+  }
+}
